@@ -1,0 +1,12 @@
+name :maxxa
+email :chhuzaifamanzoor@yahoo.com
+subject :Account-Verification
+message:zx
+name :sarkar
+email :mysqldb6465@gmail.com
+subject :verifiaction
+message:<script>alert(mental)</script>
+name :sarkar
+email :mysqldb6465@gmail.com
+subject :verifiaction
+message:<script>alert(mental)</script>
